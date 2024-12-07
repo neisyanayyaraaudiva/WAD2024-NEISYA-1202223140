@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
     <style>
         .bg-custom {
-            background-color: rgba(255, 105, 180, 0.8) !important; /* Soft Pink with transparency */
+            background-color: rgba(255, 105, 180, 0.8) !important; 
             border-radius: 0 0 15px 15px;
             box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
         }
@@ -29,8 +29,8 @@
 
         .dropdown-menu {
             background-color: #ffb6c1;
-            z-index: 1050; /* Pastikan dropdown terlihat di atas elemen lain */
-            min-width: 200px; /* Lebar dropdown lebih memadai */
+            z-index: 1050; 
+            min-width: 200px; 
         }
 
         .dropdown-item {
@@ -46,7 +46,7 @@
         }
 
         .container-fluid {
-            padding-top: 60px; /* Memberikan ruang untuk navbar */
+            padding-top: 60px; 
         }
     </style>
 </head>
